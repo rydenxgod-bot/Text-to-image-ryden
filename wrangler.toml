@@ -5,4 +5,4 @@ compatibility_date = "2024-05-01"
 [vars]
 HF_TOKEN = "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"
 HF_MODEL = "stabilityai/stable-diffusion-2-1"
-MODEL_NAME = "sd-3.5-large""
+MODEL_NAME = "sd-3.5-large"
