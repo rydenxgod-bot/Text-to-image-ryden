@@ -1,0 +1,9 @@
+{
+  "name": "text-to-image-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "publish": "wrangler publish"
+  }
+}
